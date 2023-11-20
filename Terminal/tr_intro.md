@@ -1,3 +1,3 @@
-# Bandit Seviye 1 🚀
+# InterActive Terminal
   
 - Başla butonuna tıklayarak talimatlarla seviyeye başlayabilirsiniz.  
