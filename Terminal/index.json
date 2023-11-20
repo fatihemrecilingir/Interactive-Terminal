@@ -1,0 +1,27 @@
+{
+  "scenario": {
+    "steps": [
+      {
+        "text": "tr_step1.md"
+      },
+      {
+        "text": "tr_step2.md"
+      },
+      {
+        "text": "tr_step3.md"
+      }
+    ],
+    "intro": {
+      "text": "tr_intro.md"
+    },
+    "finish": {
+      "text": "tr_finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "alpine"
+  }
+}
